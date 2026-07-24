@@ -5,7 +5,7 @@ Desenvolvedor de software apaixonado por criação de jogos e desenvolvimento de
 <br><br>
 <h3>Contato</h3>
   
-<p><a href="https://instagram.com/estevao_kenji"><img src="https://img.shields.io/badge/Instagram-@ESTEVAO__KENJI-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a><a href="https://web.whatsapp.com"><img src="https://img.shields.io/badge/Whatsapp-@ESTEVAOKENJI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a></p>
+<p><a href="https://instagram.com/estevao_kenji" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-@ESTEVAO__KENJI-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a><a href="https://web.whatsapp.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Whatsapp-@ESTEVAOKENJI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a></p>
 
 <h3>Habilidades</h3>
 
